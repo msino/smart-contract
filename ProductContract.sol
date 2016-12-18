@@ -1,4 +1,6 @@
 pragma solidity ^0.4.7;
+//author : suxudong
+//date : 2016-12-18
 contract ProductContract { // can be killed, so the owner gets sent the money in the end
 
 	struct User {
